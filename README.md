@@ -39,4 +39,4 @@ Control	Action
 <kbd>RESET</kbd>	Reset Game
 </div>
    
-                                                                                                                  🌟 If you like this project, give it a star! ⭐
+    🌟 If you like this project, give it a star! ⭐
