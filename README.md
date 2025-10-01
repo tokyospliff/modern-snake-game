@@ -47,17 +47,6 @@ Technology	Purpose
 <img src="https://img.icons8.com/color/48/000000/css3.png" width="20"/> CSS3	Styling & Animations
 <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20"/> JavaScript	Game Logic
 </div>
-
-
-📁 Project Structure
-
-modern-snake-game/
-├── index.html
-├── README.md
-└── assets/
-    ├── screenshots/
-    └── icons/
-
     
 <div align="center">
 🌟 If you like this project, give it a star! ⭐
