@@ -38,3 +38,27 @@ Control	Action
 <kbd>START</kbd>	Start/Pause Game
 <kbd>RESET</kbd>	Reset Game
 </div>
+
+
+🛠️ Technologies Used
+<div align="center">
+Technology	Purpose
+<img src="https://img.icons8.com/color/48/000000/html-5.png" width="20"/> HTML5 Canvas	Game Rendering
+<img src="https://img.icons8.com/color/48/000000/css3.png" width="20"/> CSS3	Styling & Animations
+<img src="https://img.icons8.com/color/48/000000/javascript.png" width="20"/> JavaScript	Game Logic
+</div>
+
+
+📁 Project Structure
+
+modern-snake-game/
+├── index.html
+├── README.md
+└── assets/
+    ├── screenshots/
+    └── icons/
+
+    
+<div align="center">
+🌟 If you like this project, give it a star! ⭐
+<img src="https://img.icons8.com/color/48/000000/github.png" width="20"/> **Enjoy playing!**</div><style> .center { display: block; margin-left: auto; margin-right: auto; width: 50%; } </style>
