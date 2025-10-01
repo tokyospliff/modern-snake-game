@@ -38,7 +38,6 @@ Control	Action
 <kbd>START</kbd>	Start/Pause Game
 <kbd>RESET</kbd>	Reset Game
 </div>
-    
-<div align="center">
+     align="center">
 🌟 If you like this project, give it a star! ⭐
 <img src="https://img.icons8.com/color/48/000000/github.png" width="20"/> **Enjoy playing!**</div><style> .center { display: block; margin-left: auto; margin-right: auto; width: 50%; } </style>
